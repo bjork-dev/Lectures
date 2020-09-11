@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uppgift1", "..\Uppgift1\Uppgift1.csproj", "{3B598D17-53CC-4454-8CC3-24564E1FF29D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uppgift1", "..\Uppgift1\Uppgift1.csproj", "{3B598D17-53CC-4454-8CC3-24564E1FF29D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uppgift 2", "..\Uppgift 2\Uppgift 2.csproj", "{80CD35AE-0FAD-4606-8C53-CB255BE3EA94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uppgift 2", "..\Uppgift 2\Uppgift 2.csproj", "{80CD35AE-0FAD-4606-8C53-CB255BE3EA94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uppgift 3", "..\Uppgift 3\Uppgift 3.csproj", "{4E909115-E440-4713-8C52-5CCA1C17C616}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uppgift 3", "..\Uppgift 3\Uppgift 3.csproj", "{4E909115-E440-4713-8C52-5CCA1C17C616}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uppgift 4", "..\Uppgift 4\Uppgift 4.csproj", "{BE9FF661-4721-4381-944A-ADECC02DA0AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{4E909115-E440-4713-8C52-5CCA1C17C616}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E909115-E440-4713-8C52-5CCA1C17C616}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E909115-E440-4713-8C52-5CCA1C17C616}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE9FF661-4721-4381-944A-ADECC02DA0AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE9FF661-4721-4381-944A-ADECC02DA0AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE9FF661-4721-4381-944A-ADECC02DA0AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE9FF661-4721-4381-944A-ADECC02DA0AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
