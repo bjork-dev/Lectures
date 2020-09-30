@@ -16,7 +16,7 @@ namespace Uppgift2
         }
         public void WinLottery(int prize)
         {
-            wealth += prize;
+            wealth += prize; 
         }
 
         public void CelebrateBirthday()
